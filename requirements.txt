@@ -1,0 +1,6 @@
+Python version: 3.11.10
+NumPy version: 1.26.4
+SciPy version: 1.13.1
+TensorFlow version: 2.18.0
+Matplotlib version: 3.9.2
+scikit-image version: 0.24.0
